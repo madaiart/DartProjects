@@ -1,0 +1,1082 @@
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-agencia-de-recepcion</name>
+
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-oficial</name>
+
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-fecha-del-1er-pago</name>
+
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-tipocrd-BGR</name>
+
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-tipocrd-BGC</name>
+
+<parrafo_pantalla>Solicitud de Credito</parrafo_pantalla>
+<name>g-tipocrd-HIP</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-deudor</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-garante</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-ciudad</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-fecha</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-destino-credito</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-valor-solicitado</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-plazo-solicitado-meses</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-tipogarantia-firmas</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-tipogarantia-hipotecas</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-tipogarantia-prendas</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-valor-comercial</name>
+
+<parrafo_pantalla>Datos para la operación de crédito</parrafo_pantalla>
+<name>dpoc-otros</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-direccion-del-inmueble-a-financiar</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-valor-del-inmueble</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-ubicacion-inmueble-parroquia</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-destiinmu-habitar</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-destiinmu-inversion</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-destiinmu-otro</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-tipoinmu-casa</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-tipoinmu-departamento</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-tipoinmu-nuevo</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-tipoinmu-usado</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-gastosfin-si</name>
+
+<parrafo_pantalla>Descripción de la garantía</parrafo_pantalla>
+<name>desgaran-gastosfin-no</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-adquisicion-linea-blanca</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-alimentacion</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-educacion</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-compra-anticipo-vivienda</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-inversion-en-negocio</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-gastos-de-salud</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-pago-deudas</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-mejoras-a-vivienda</name>
+
+<parrafo_pantalla>Uso de crédito</parrafo_pantalla>
+<name>usocredito-otros</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>APELLIDO_PATERNO</par_codigo_parametro>
+<name>datspersonales-apellido-paterno</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>PRIMER_NOMBRE</par_codigo_parametro>
+<name>datspersonales-primer-nombre</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>APELLIDO_MATERNO</par_codigo_parametro>
+<name>datspersonales-apellido-materno</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>SEGUNDO_NOMBRE</par_codigo_parametro>
+<name>datspersonales-segundo-nombre</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>TIPO_IDENTIFICACION</par_codigo_parametro>
+<seleccion>cedula</seleccion>
+<name>datspersonales-iden-cedula</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>TIPO_IDENTIFICACION</par_codigo_parametro>
+<seleccion>pasaporte</seleccion>
+<name>datspersonales-iden-pasaporte</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NUMERO_IDENTIFICACION</par_codigo_parametro>
+<name>datspersonales-iden-no</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>FECHA_CADUCIDAD</par_codigo_parametro>
+<name>datspersonales-fecha-de-caducidad</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>FECHA_NACIMIENTO</par_codigo_parametro>
+<name>datspersonales-fecha-de-nacimiento</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NACIONALIDAD</par_codigo_parametro>
+<seleccion>ecuatoriana</seleccion>
+<name>datspersonales-nacionalidad-ecuatoriana</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NACIONALIDAD</par_codigo_parametro>
+<seleccion>extranjero residente</seleccion>
+<name>datspersonales-nacionalidad-extranjero-residente</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>PAIS</par_codigo_parametro>
+<name>datspersonales-pais</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ANIOS_RESIDENCIA</par_codigo_parametro>
+<name>datspersonales-anios-que-reside-en-el-pais</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>GENERO</par_codigo_parametro>
+<seleccion>M</seleccion>
+<name>datspersonales-sexo-m</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>GENERO</par_codigo_parametro>
+<seleccion>F</seleccion>
+<name>datspersonales-sexo-f</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Sin estudios</seleccion>
+<name>datspersonales-nivestu-sin-estudios</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Primarios-Basicos</seleccion>
+<name>datspersonales-nivestu-primarios-basicos</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Medios-Secundarios</seleccion>
+<name>datspersonales-nivestu-medios-secundarios</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Formacion Intermedia</seleccion>
+<name>datspersonales-nivestu-formacion-intermedia</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Universitario</seleccion>
+<name>datspersonales-nivestu-universitario</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Postgrado</seleccion>
+<name>datspersonales-nivestu-postgrado</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>PROFESIONES</par_codigo_parametro>
+<name>datspersonales-profesion</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ESTADO_CIVIL</par_codigo_parametro>
+<seleccion>Soltero</seleccion>
+<name>datspersonales-estadocivil-soltero</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ESTADO_CIVIL</par_codigo_parametro>
+<seleccion>Casado</seleccion>
+<name>datspersonales-estadocivil-casado</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ESTADO_CIVIL</par_codigo_parametro>
+<seleccion>Viudo</seleccion>
+<name>datspersonales-estadocivil-viudo</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ESTADO_CIVIL</par_codigo_parametro>
+<seleccion>Divorciado</seleccion>
+<name>datspersonales-estadocivil-divorciado</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>ESTADO_CIVIL</par_codigo_parametro>
+<seleccion>Unión libre</seleccion>
+<name>datspersonales-estadocivil-union-libre</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>SEPARACION_BIENES</par_codigo_parametro>
+<seleccion>Si</seleccion>
+<name>datspersonales-sepbienes-si</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>SEPARACION_BIENES</par_codigo_parametro>
+<seleccion>No</seleccion>
+<name>datspersonales-sepbienes-no</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<name>datspersonales-extranjero-pais</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CIUDAD/PARROQUIA</par_codigo_parametro>
+<name>datspersonales-provincia</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CIUDAD</par_codigo_parametro>
+<name>datsdomicilio-ciudad</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>PARROQUIA</par_codigo_parametro>
+<campo>Canton</campo>
+<name>datspersonales-canton</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>PARROQUIA</par_codigo_parametro>
+<campo>Parroquia</campo>
+<name>datsdomicilio-parroquia</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CALLE_PRINCIPAL</par_codigo_parametro>
+<name>datsdomicilio-calle-principal</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>NUMERO</par_codigo_parametro>
+<name>datsdomicilio-calle-numero</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CALLE_SECUNDARIA</par_codigo_parametro>
+<name>datsdomicilio-calle-secundaria</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>BARRIO_SECTOR</par_codigo_parametro>
+<name>datsdomicilio-barrio-sector</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>REFERENCIAS_PARA_UBICACION</par_codigo_parametro>
+<name>datsdomicilio-referencias-para-la-ubicacion-de-la-vivienda</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CODIGO_POSTAL</par_codigo_parametro>
+<name>datsdomicilio-codigo-postal</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TELEFONO</par_codigo_parametro>
+<name>datsdomicilio-telefono-fax</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CELULAR</par_codigo_parametro>
+<name>datsdomicilio-telefono-celular</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>E_MAIL</par_codigo_parametro>
+<name>datsdomicilio-email</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>DIRECCION_ENVIO_CORRESPONDENCIA</par_codigo_parametro>
+<seleccion>Trabajo</seleccion>
+<name>datsdomicilio-direnviocorresp-trabajo</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>DIRECCION_ENVIO_CORRESPONDENCIA</par_codigo_parametro>
+<seleccion>Domicilio</seleccion>
+<name>datsdomicilio-direnviocorresp-domicilio</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>CASILLA</par_codigo_parametro>
+<name>datsdomicilio-direnviocorresp-casilla</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TIPO_VIVIENDA</par_codigo_parametro>
+<seleccion>Anticresis</seleccion>
+<name>datsdomicilio-tipovivactual-anticresis</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TIPO_VIVIENDA</par_codigo_parametro>
+<seleccion>Vive con familiares</seleccion>
+<name>datsdomicilio-tipovivactual-vivo-con-familiares</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TIPO_VIVIENDA</par_codigo_parametro>
+<seleccion>Prestada</seleccion>
+<name>datsdomicilio-tipovivactual-prestada</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TIPO_VIVIENDA</par_codigo_parametro>
+<seleccion>Arrendada</seleccion>
+<name>datsdomicilio-tipovivactual-arrendada</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>NOMBRE_ARRENDADOR</par_codigo_parametro>
+<name>datsdomicilio-nombre-del-arrendador</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TELEFONO_ARRENDADOR</par_codigo_parametro>
+<name>datsdomicilio-telefono-del-arrendador</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<name>datspersonales-propia</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<name>datspersonales-hipotecada-si</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<name>datspersonales-hipotecada-no</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>VALOR_VIVIENDA</par_codigo_parametro>
+<name>datsdomicilio-valor-de-la-vivienda</name>
+
+<parrafo_pantalla>Datos domicilio</parrafo_pantalla>
+<par_codigo_parametro>TIEMPO_RESIDENCIA_VIVIENDA_ACTUAL</par_codigo_parametro>
+<name>datsdomicilio-tiempo-residencia-vivienda-actual-anios</name>
+
+<parrafo_pantalla>Datos Personales</parrafo_pantalla>
+<par_codigo_parametro>NUMERO_CARGAS_FAMILIARES</par_codigo_parametro>
+<name>datspersonales-no-de-personas-que-dependen-economicamente-de-usted</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>SERVICIO</par_codigo_parametro>
+<seleccion>Activo</seleccion>
+<name>acteco-militar-servicio-activo</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>SERVICIO</par_codigo_parametro>
+<seleccion>Pasivo</seleccion>
+<name>acteco-militar-servicio-pasivo</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>RANGO</par_codigo_parametro>
+<name>acteco-militar-rango</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>FUERZA</par_codigo_parametro>
+<seleccion>Terrestre</seleccion>
+<name>acteco-militar-fuerza-terrestre</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>FUERZA</par_codigo_parametro>
+<seleccion>Naval</seleccion>
+<name>acteco-militar-fuerza-naval</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>FUERZA</par_codigo_parametro>
+<seleccion>aerea</seleccion>
+<name>acteco-militar-fuerza-aerea</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Público</seleccion>
+<name>acteco-civil-empleado-publico</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Privado</seleccion>
+<name>acteco-civil-empleado-privado</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Independiente</seleccion>
+<name>acteco-civil-independiente</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Ama de casa</seleccion>
+<name>acteco-civil-ama-de-casa</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Rentista</seleccion>
+<name>acteco-civil-rentista</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Jubilado o pensionista</seleccion>
+<name>acteco-civil-jubilado-o-pensionista</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CLIENTE_CIVIL</par_codigo_parametro>
+<seleccion>Remesas del exterior</seleccion>
+<name>acteco-civil-remesas-del-exterior</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ACTIVIDAD_ECONOMICA</par_codigo_parametro>
+<name>acteco-civil-actividad-economica-de-la-empresa</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>FECHA_INGRESO_FUERZA_EMPRESA</par_codigo_parametro>
+<name>acteco-fecha-ingreso-fuerza-empresa</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>REPARTO_EMPRESA</par_codigo_parametro>
+<name>acteco-reparto-empresa</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<name>acteco-pais</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CIUDAD/PARROQUIA</par_codigo_parametro>
+<name>acteco-provincia</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CIUDAD</par_codigo_parametro>
+<name>acteco-ciudad</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>PARROQUIA</par_codigo_parametro>
+<name>acteco-canton</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>PARROQUIA</par_codigo_parametro>
+<name>acteco-parroquia</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CALLE_PRINCIPAL</par_codigo_parametro>
+<name>acteco-calle-principal</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>NUMERO</par_codigo_parametro>
+<name>acteco-numero</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CALLE_SECUNDARIA</par_codigo_parametro>
+<name>acteco-calle-secundaria</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>BARRIO_SECTOR</par_codigo_parametro>
+<name>acteco-barrio-sector</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>REFERENCIAS_PARA_UBICACION</par_codigo_parametro>
+<name>acteco-referencia-para-la-ubicacion-de-la-empresa</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CODIGO_POSTAL</par_codigo_parametro>
+<name>acteco-codigo-postal</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TELEFONO</par_codigo_parametro>
+<name>acteco-telefono</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>FAX</par_codigo_parametro>
+<name>acteco-fax</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>CARGO_QUE_DESEMPEÑA</par_codigo_parametro>
+<name>acteco-cargo-que-desempeña</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>NOMBRE_JEFE_INMEDIATO</par_codigo_parametro>
+<name>acteco-nombre-del-jefe-inmediato</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CONTRATO</par_codigo_parametro>
+<seleccion>Término fijo</seleccion>
+<name>acteco-tipoctro-termino-fijo</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CONTRATO</par_codigo_parametro>
+<seleccion>Término indefinido</seleccion>
+<name>acteco-tipoctro-termino-indefinido</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CONTRATO</par_codigo_parametro>
+<seleccion>Prestacion de servicios</seleccion>
+<name>acteco-tipoctro-prestacion-de-servicios</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ESPECIFIQUE_OTROS</par_codigo_parametro>
+<name>acteco-tipoctro-otros</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ORIGEN_PATRIMONIO</par_codigo_parametro>
+<seleccion>Salario</seleccion>
+<name>acteco-orgpatri-salario</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ORIGEN_PATRIMONIO</par_codigo_parametro>
+<seleccion>Ingresos independientes</seleccion>
+<name>acteco-orgpatri-ingresos-independientes</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ORIGEN_PATRIMONIO</par_codigo_parametro>
+<seleccion>Donación o herencia</seleccion>
+<name>acteco-orgpatri-donacion-o-herencia</name>
+
+<parrafo_pantalla>Actividad económica</parrafo_pantalla>
+<par_codigo_parametro>ORIGEN_PATRIMONIO</par_codigo_parametro>
+<seleccion>Rentas</seleccion>
+<name>acteco-orgpatri-rentas</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>HA_TRABAJO_ANTERIORMENTE</par_codigo_parametro>
+<name>inftrab-no-he-trabajadi-anteriormente</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>NOMBRE_INSTITUCION_EMPRESA</par_codigo_parametro>
+<name>?-institucion-empresa</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>CIUDAD</par_codigo_parametro>
+<name>inftrab-ciudad</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>CARGO_QUE_DESEMPEÑA</par_codigo_parametro>
+<name>inftrab-cargo-que-desempenio</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>FECHA_INICIO_TRABAJO_ANTERIOR</par_codigo_parametro>
+<name>inftrab-fecha-inicio-trabajo-anterior</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>FECHA_SALIDA_TRABAJO_ANTERIOR</par_codigo_parametro>
+<name>inftrab-fecha-salida-trabajo-anterior</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>TELEFONO</par_codigo_parametro>
+<name>inftrab-teléfono</name>
+
+<parrafo_pantalla>Informacion trabajo anterior</parrafo_pantalla>
+<par_codigo_parametro>TIEMPO_TRABAJO</par_codigo_parametro>
+<name>inftrab-tiempo-ultimo-trabajo</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>APELLIDO_PATERNO</par_codigo_parametro>
+<name>datosprsconyuge-apellido-paterno</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>APELLIDO_MATERNO</par_codigo_parametro>
+<name>datosprsconyuge-apellido-materno</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>PRIMER_NOMBRE</par_codigo_parametro>
+<name>datosprsconyuge-nombres</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>TIPO_IDENTIFICACION</par_codigo_parametro>
+<seleccion>Cédula</seleccion>
+<name>datosprsconyuge-ident-cedula</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>TIPO_IDENTIFICACION</par_codigo_parametro>
+<seleccion>Pasaporte</seleccion>
+<name>datosprsconyuge-ident-pasaporte</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NUMERO_IDENTIFICACION</par_codigo_parametro>
+<name>datosprsconyuge-ident-no</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>FECHA_NACIMIENTO</par_codigo_parametro>
+<name>datosprsconyuge-fecha-nacimiento</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NACIONALIDAD</par_codigo_parametro>
+<seleccion>Ecuatoriana</seleccion>
+<name>datosprsconyuge-nacionalidad-ecuatoriana</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NACIONALIDAD</par_codigo_parametro>
+<seleccion>Extranjero residente</seleccion>
+<name>datosprsconyuge-nacionalidad-extranjero-residente</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>ANIOS_RESIDENCIA</par_codigo_parametro>
+<name>datosprsconyuge-anios-que-reside-en-el-pais</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Sin Estudios</seleccion>
+<name>datosprsconyuge-nivelestudios-sin-estudios</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Primarios básicos</seleccion>
+<name>datosprsconyuge-nivelestudios-primarios-basicos</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Medios secundarios</seleccion>
+<name>datosprsconyuge-nivelestudios-medios-secundarios</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Formacion intermedia</seleccion>
+<name>datosprsconyuge-nivelestudios-formacion-intermedia</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Universitario</seleccion>
+<name>datosprsconyuge-nivelestudios-universitario</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NIVEL_ESTUDIOS</par_codigo_parametro>
+<seleccion>Postgrado</seleccion>
+<name>datosprsconyuge-nivelestudios-postgrado</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>PROFESIONES</par_codigo_parametro>
+<name>datosprsconyuge-nivelestudios-profesion</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NOMBRE_INSTITUCION_EMPRESA</par_codigo_parametro>
+<name>datosprsconyuge-nombre-de-la-institucion-donde-trabaja</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>ACTIVIDAD_EMPRESA</par_codigo_parametro>
+<name>datosprsconyuge-actividad-de-la-empresa</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>ES_ACTIVIDAD_PROPIA</par_codigo_parametro>
+<name>datosprsconyuge-actividad-propia</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>DIRECCION</par_codigo_parametro>
+<name>datosprsconyuge-direccion</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>CARGO</par_codigo_parametro>
+<name>datosprsconyuge-cargo-que-desempenia</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>NOMBRE_JEFE_INMEDIATO</par_codigo_parametro>
+<name>datosprsconyuge-nombre-del-jefe-inmediato</name>
+
+<parrafo_pantalla>Datos Personales Cónyuge</parrafo_pantalla>
+<par_codigo_parametro>TELEFONO</par_codigo_parametro>
+<name>datosprsconyuge-telefono</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-nombre-del-negocio</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-ruc</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-direccion-completa-del-negocio</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-barrio-yo-sector</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-barrio-telefono</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-fax</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-ubicacion-referencial-del-negocio</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-local-propio</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-local-arrendado</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-local-otro</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-nombre-del-arrendador</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-telefono</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-tiempo-de-funcionamiento</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-actividad-economica-principal</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-lugarventas-en-local</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-ambulante</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-horario-de-negocio</name>
+
+<parrafo_pantalla>Datos del negocio para independientes</parrafo_pantalla>
+<name>datosnegindep-no-de-trabajadores</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-apellidos-y-nombres</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-parentesco</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-telefono-fijo</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-provincia-ciudad</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-direccion</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-1-hora-ubicable</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-apellidos-y-nombres</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-parentesco</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-telefono-fijo</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-provincia-ciudad</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-direccion</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-2-hora-ubicable</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-apellidos-y-nombres</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-parentesco</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-telefono-fijo</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-provincia-ciudad</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-direccion</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-3-hora-ubicable</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-apellidos-y-nombres</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-parentesco</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-telefono-fijo</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-provincia-ciudad</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-direccion</name>
+
+<parrafo_pantalla>Dos referencias familiares que no vivan con usted y dos personales</parrafo_pantalla>
+<name>referencias-4-hora-ubicable</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-almacen-yo-proveedor</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-valor-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-fecha</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-telefono</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-provincia-ciudad</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-1-direccion</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-almacen-yo-proveedor</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-valor-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-fecha</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-telefono</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-provincia-ciudad</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-2-direccion</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-almacen-yo-proveedor</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-valor-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-articulo</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-fecha</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-telefono</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-provincia-ciudad</name>
+
+<parrafo_pantalla>Referencias comerciales y/o proveedores</parrafo_pantalla>
+<name>referenciascom-3-direccion</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-1-institucion</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Ahorros</seleccion>
+<name>referenciasbanc-1-tipocta-ahorros</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Corriente</seleccion>
+<name>referenciasbanc-1-tipocta-corriente</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>T/C</seleccion>
+<name>referenciasbanc-1-tipocta-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-1-numero-de-cuenta-o-tarjeta</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-1-fecha-vencimiento-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-2-institucion</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Ahorros</seleccion>
+<name>referenciasbanc-2-tipocta-ahorros</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Corriente</seleccion>
+<name>referenciasbanc-2-tipocta-corriente</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>T/C</seleccion>
+<name>referenciasbanc-2-tipocta-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-2-numero-de-cuenta-o-tarjeta</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-2-fecha-vencimiento-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-3-institucion</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Ahorros</seleccion>
+<name>referenciasbanc-3-tipocta-ahorros</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Corriente</seleccion>
+<name>referenciasbanc-3-tipocta-corriente</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>T/C</seleccion>
+<name>referenciasbanc-3-tipocta-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-3-numero-de-cuenta-o-tarjeta</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-3-fecha-vencimiento-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-4-institucion</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Ahorros</seleccion>
+<name>referenciasbanc-4-tipocta-ahorros</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>Corriente</seleccion>
+<name>referenciasbanc-4-tipocta-corriente</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<par_codigo_parametro>TIPO_CUENTA</par_codigo_parametro>
+<seleccion>T/C</seleccion>
+<name>referenciasbanc-4-tipocta-tc</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-4-numero-de-cuenta-o-tarjeta</name>
+
+<parrafo_pantalla>Referencias bancarias</parrafo_pantalla>
+<name>referenciasbanc-4-fecha-vencimiento-tc</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-saldo-en-cuentas</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-mercaderia</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-terrenos-no</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-terrenos</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-edificios-casas-no</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-edificios-casas</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-vehiculos-no</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-vehiculos</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-acciones-inversiones-no</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-acciones-inversiones</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-act-total</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-pas-proveedores</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-pas-saldo-de-prestamos-vigentes</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-pas-saldo-de-tarjetas-de-credito</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-pas-otras-deudas</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-pas-total</name>
+
+<parrafo_pantalla>Situación patrimonial</parrafo_pantalla>
+<name>sitpatr-total-patrimonio</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-sueldo-liquido-deudor</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-sueldo-liquido-conyuge</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-comisiones</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-ingreso-del-negocio</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-otros-ingresos</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-ingreso-1</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-ingreso-2</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-ingreso-3</name>
+
+<parrafo_pantalla>Ingresos mensuales</parrafo_pantalla>
+<name>ingrmensuales-total-ingresos</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-alquiler</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-alimentacion</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-educacion</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-servicios-basicos</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-cuota-mensual-prestamo</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-cuota-mensual-del-pago-tc</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-transporte</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-otros-gastos</name>
+
+<parrafo_pantalla>Gastos mensuales</parrafo_pantalla>
+<name>gastsmensuales-total-gastos</name>
+
+<parrafo_pantalla>Patrimonio mensual</parrafo_pantalla>
+<name>ahorro-neto</name>
+
+<parrafo_pantalla>Espacio exclusivo banco</parrafo_pantalla>
+<name>banco-fecha-de-1er-vencimiento</name>
+
+<parrafo_pantalla>Espacio exclusivo banco</parrafo_pantalla>
+<name>banco-numero-de-personas-que-aportan-al-ingreso</name>

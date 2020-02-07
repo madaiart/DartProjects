@@ -1,0 +1,89 @@
+﻿Datos Personales;ANIOS_RESIDENCIA;Años de Residencia;ENTERO;3;0;soloNumeros;;PROGRAMA;;
+Datos Personales;APELLIDO_MATERNO;Apellido Materno;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales;APELLIDO_PATERNO;Apellido paterno;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales;ESTADO_CIVIL;Estado civil;STRING;1;0;;;CATÁLOGO;ESTCI-ESTADO CIVIL;
+Datos Personales;FECHA_CADUCIDAD;Fecha Caducidad;FECHA;10;0;validarFechas;;PROGRAMA;;-
+Datos Personales;FECHA_NACIMIENTO;Fecha Nacimiento (dd/mm/aaaa);FECHA;10;0;validarFechas;;PROGRAMA;;
+Datos Personales;GENERO;Género;STRING;1;0;;;CATÁLOGO;GENER-GÉNERO;
+Datos Personales;NACIONALIDAD;Nacionalidad;STRING;30;0;;;CATÁLOGO;NACIO-NACIONALIDAD;
+Datos Personales;NIVEL_ESTUDIOS;Nivel de Estudios;STRING;5;0;;;CATÁLOGO;NIVES-NIVEL DE ESTUDIOS;
+Datos Personales;NUMERO_CARGAS_FAMILIARES;Cargas Familiares;ENTERO;3;0;soloNumeros;;PROGRAMA;;
+Datos Personales;NUMERO_IDENTIFICACION;Número Identificación;STRING;14;0;soloNumeros;;PROGRAMA;;-
+Datos Personales;PAIS;País;STRING;4;0;;;CATÁLOGO;PAIS-PAIS;
+Datos Personales;PRIMER_NOMBRE;Primer Nombre;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales;PROFESIONES;Profesión;STRING;4;0;;;CATÁLOGO;PROFE-PROFESIONES;
+Datos Personales;SEGUNDO_NOMBRE;Segundo Nombre;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales;SEPARACION_BIENES;Separación de Bienes;STRING;1;0;;;CATÁLOGO;SINO-AFIRMACION/NEGACION;
+Datos Personales;TIPO_IDENTIFICACION;Tipo de Identificación;STRING;5;0;;;CATÁLOGO;TIPID-TIPO DE IDENTIFICACIÓN (CATÁLOGO S21);
+Datos domicilio;BARRIO_SECTOR;Barrio/Sector;STRING;50;0;;;PROGRAMA;;
+Datos domicilio;CALLE_PRINCIPAL;Calle Principal;STRING;50;0;;;PROGRAMA;;
+Datos domicilio;CALLE_SECUNDARIA;Calle Secundaria;STRING;50;0;;;PROGRAMA;;
+Datos domicilio;CASILLA;Casilla;STRING;256;0;;;PROGRAMA;;
+Datos domicilio;CELULAR;Teléfono Celular;STRING;10;0;validarTelefonos10;<08|09|>########;PROGRAMA;;
+Datos domicilio;CIUDAD;Provincia/Ciudad;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N2-Ciudad;
+Datos domicilio;CODIGO_POSTAL;Código Postal;STRING;6;0;;;PROGRAMA;;
+Datos domicilio;DIRECCION_ENVIO_CORRESPONDENCIA;Dirección Envío Correspondencia;STRING;5;0;;;CATÁLOGO;DIRCO-DIRECCIÓN ENVÍO CORRESPONDENCIA;
+Datos domicilio;E_MAIL;e-mail;STRING;256;0;;;PROGRAMA;;
+Datos domicilio;NOMBRE_ARRENDADOR;Nombre Arrendador;STRING;50;0;soloLetras;;PROGRAMA;;
+Datos domicilio;NUMERO;Número;STRING;10;0;;;PROGRAMA;;
+Datos domicilio;PARROQUIA;Parroquia;STRING;30;0;;;JERARQUIA;J6-Jerarquias.UBICACIONES_GEOGRAFICAS - J6N3-Parroquia;
+Datos domicilio;REFERENCIAS_PARA_UBICACION;Referencias para la ubicación;STRING;50;0;;;PROGRAMA;;
+Datos domicilio;TELEFONO;Teléfono;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Datos domicilio;TELEFONO_ARRENDADOR;Teléfono arrendador;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Datos domicilio;TIEMPO_RESIDENCIA_VIVIENDA_ACTUAL;Tiempo residencia vivienda actual (años);ENTERO;3;0;soloNumeros;;PROGRAMA;;
+Datos domicilio;TIPO_VIVIENDA;Tipo Vivienda;STRING;5;0;;;CATÁLOGO;TIPVI-TIPO VIVIENDA;
+Datos domicilio;VALOR_VIVIENDA;Valor de la Vivienda;DOUBLE;14;2;validarDouble14con2;;PROGRAMA;;
+Actividad económica;ACTIVIDAD_ECONOMICA;Actividad económica;STRING;5;0;;;CATÁLOGO;ACTEC-ACTIVIDAD ECONÓMICA;
+Actividad económica;BARRIO_SECTOR;Barrio/Sector;STRING;50;0;;;PROGRAMA;;
+Actividad económica;CALLE_PRINCIPAL;Calle Principal;STRING;50;0;;;PROGRAMA;;
+Actividad económica;CALLE_SECUNDARIA;Calle Secundaria;STRING;50;0;;;PROGRAMA;;
+Actividad económica;CARGO_QUE_DESEMPEÑA;Cargo que desempeña;STRING;256;0;;;PROGRAMA;;
+Actividad económica;CIUDAD;Provincia/Ciudad;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N2-Ciudad;
+Actividad económica;CODIGO_POSTAL;Código Postal;STRING;6;0;;;PROGRAMA;;
+Actividad económica;ESPECIFIQUE_OTROS;Especifique Otros;STRING;256;0;;;PROGRAMA;;
+Actividad económica;FAX;Fax;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Actividad económica;FECHA_INGRESO_FUERZA_EMPRESA;Fecha Ingreso a la Fuerza/Empresa;FECHA;10;0;validarFechas;;PROGRAMA;;
+Actividad económica;FUERZA;Fuerza;STRING;5;0;;;CATÁLOGO;FUERZ-FUERZA;
+Actividad económica;NOMBRE_JEFE_INMEDIATO;Nombre Jefe Inmediato;STRING;256;0;;;PROGRAMA;;
+Actividad económica;NUMERO;Número;STRING;10;0;;;PROGRAMA;;
+Actividad económica;PARROQUIA;Parroquia;STRING;30;0;;;JERARQUIA;J6-Jerarquias.UBICACIONES_GEOGRAFICAS - J6N3-Parroquia;
+Actividad económica;RANGO;Rango;STRING;5;0;;;CATÁLOGO;RANGO-RANGOS;
+Actividad económica;REFERENCIAS_PARA_UBICACION;Referencias para la ubicación;STRING;50;0;;;PROGRAMA;;
+Actividad económica;REPARTO_EMPRESA;Reparto/Empresa;STRING;256;0;;;PROGRAMA;;
+Actividad económica;SERVICIO;Servicio;STRING;5;0;;;CATÁLOGO;SERVI-SERVICIO;
+Actividad económica;TELEFONO;Teléfono;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Actividad económica;TIPO_CLIENTE_CIVIL;Tipo cliente civil;STRING;5;0;;;CATÁLOGO;TCLIC-TIPO CLIENTE CIVIL;
+Actividad económica;TIPO_CONTRATO;Tipo contrato;STRING;5;0;;;CATÁLOGO;TICON-TIPO CONTRATO;
+Actividad económica;ORIGEN_PATRIMONIO;Origen Patrimonio;STRING;5;0;;;CATÁLOGO;ORIPA-ORIGEN PATRIMONIO;
+Información trabajo anterior;CARGO_QUE_DESEMPEÑA;Cargo que desempeña;STRING;256;0;;;PROGRAMA;;
+Información trabajo anterior;CIUDAD;Provincia/Ciudad;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N2-Ciudad;
+Información trabajo anterior;FECHA_INICIO_TRABAJO_ANTERIOR;Fecha Inicio Trabajo Anterior;FECHA;10;0;validarFechas;;PROGRAMA;;
+Información trabajo anterior;FECHA_SALIDA_TRABAJO_ANTERIOR;Fecha Salida Trabajo Anterior;FECHA;10;0;validarFechas;;PROGRAMA;;
+Información trabajo anterior;HA_TRABAJO_ANTERIORMENTE;Ha trabajado anteriormente?;STRING;1;0;;;CATÁLOGO;SINO-AFIRMACION/NEGACION;
+Información trabajo anterior;NOMBRE_INSTITUCION_EMPRESA;Nombre de la institución/empresa;STRING;256;0;;;PROGRAMA;;
+Información trabajo anterior;TELEFONO;Teléfono;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Información trabajo anterior;TIEMPO_TRABAJO;Tiempo trabajo;ENTERO;3;0;soloNumeros;;FORMULA;;
+Datos Personales Cónyuge;ACTIVIDAD_EMPRESA;Actividad empresa;STRING;1024;0;;;PROGRAMA;;
+Datos Personales Cónyuge;CARGO;Cargo;STRING;256;0;;;PROGRAMA;;
+Datos Personales Cónyuge;DIRECCION;Dirección;STRING;1024;0;;;PROGRAMA;;
+Datos Personales Cónyuge;ES_ACTIVIDAD_PROPIA;Actividad propia?;STRING;1;0;;;CATÁLOGO;SINO-AFIRMACION/NEGACION;
+Datos Personales Cónyuge;NOMBRE_INSTITUCION_EMPRESA;Nombre de la institución/empresa;STRING;256;0;;;PROGRAMA;;
+Datos Personales Cónyuge;NOMBRE_JEFE_INMEDIATO;Nombre Jefe Inmediato;STRING;256;0;;;PROGRAMA;;
+Datos Personales Cónyuge;TELEFONO;Teléfono;STRING;9;0;validarTelefonos;<02|03|04|05|06|07>#######;PROGRAMA;;
+Datos Personales Cónyuge;ANIOS_RESIDENCIA;Años de Residencia;ENTERO;3;0;soloNumeros;;PROGRAMA;;
+Datos Personales Cónyuge;APELLIDO_MATERNO;Apellido Materno;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales Cónyuge;APELLIDO_PATERNO;Apellido paterno;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales Cónyuge;FECHA_NACIMIENTO;Fecha Nacimiento (dd/mm/aaaa);FECHA;10;0;validarFechas;;PROGRAMA;;
+Datos Personales Cónyuge;NACIONALIDAD;Nacionalidad;STRING;30;0;;;CATÁLOGO;NACIO-NACIONALIDAD;
+Datos Personales Cónyuge;NIVEL_ESTUDIOS;Nivel de Estudios;STRING;5;0;;;CATÁLOGO;NIVES-NIVEL DE ESTUDIOS;
+Datos Personales Cónyuge;NUMERO_IDENTIFICACION;Número Identificación;STRING;14;0;soloNumeros;;PROGRAMA;;
+Datos Personales Cónyuge;PRIMER_NOMBRE;Primer Nombre;STRING;25;0;soloLetras;;PROGRAMA;;-
+Datos Personales Cónyuge;PROFESIONES;Profesión;STRING;4;0;;;CATÁLOGO;PROFE-PROFESIONES;
+Datos Personales Cónyuge;SEGUNDO_NOMBRE;Segundo Nombre;STRING;25;0;soloLetras;;PROGRAMA;;
+Datos Personales Cónyuge;TIPO_IDENTIFICACION;Tipo de Identificación;STRING;5;0;;;CATÁLOGO;TIPID-TIPO DE IDENTIFICACIÓN (CATÁLOGO S21);
+Actividad económica;CIUDAD/PARROQUIA;Provincia;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N1/J6N1-Ciudad;
+Actividad económica;PARROQUIA;Canton;STRING;30;0;;;JERARQUIA;J6-Jerarquias.UBICACIONES_GEOGRAFICAS - J6N2-Canton;
+Datos domicilio;CIUDAD/PARROQUIA;Provincia;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N1/J6N1-Ciudad;
+Datos domicilio;PARROQUIA;Canton;STRING;30;0;;;JERARQUIA;J6-Jerarquias.UBICACIONES_GEOGRAFICAS - J6N2-Parroquia;
+Información trabajo anterior;CIUDAD/PARROQUIA;Provincia;STRING;30;0;;;JERARQUIA;J8-Jerarquias.UBICACIONES_GEOGRAFICAS_CIU - J8N1/J6N1-Ciudad;
+;;;;;;;;;;

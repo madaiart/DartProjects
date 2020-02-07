@@ -1,0 +1,13 @@
+<parrafo_pantalla></parrafo_pantalla>
+<par_codigo_parametro></par_codigo_parametro>
+<campo></campo>
+<tipo_dato></tipo_dato>
+<longitud_campo></longitud_campo>
+<precision_campo></precision_campo>
+<validacion></validacion>
+<mascara_presentacion></mascara_presentacion>
+<forma_asignacion></forma_asignacion>
+<catalogo-jerarquia></catalogo-jerarquia>
+<separador></separador>
+<seleccion></seleccion>
+<name></name>
